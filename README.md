@@ -22,7 +22,7 @@ classes are:
  
  link of the dataset in my drive is 
 you can access my dataset here 
-https://drive.google.com/open?id=1iB0LIOo6_bG2qjHVlk-LiCkzIxSo8yGS
+https://drive.google.com/open?id=1gYe8UI_-9yUC5qHKwyuVmEqwP1qtdNoK
 
 thanks to wkentaro for his wonderful package labelme
 https://github.com/wkentaro/labelme
